@@ -263,3 +263,4 @@ process.on('unhandledRejection', (reason, promise) => {
 });
 
 // Start server
+startServer();
